@@ -4,7 +4,8 @@
 <img align ='right' alt= "coding" width ="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushpraj&label=Profile%20views&color=0e75b6&style=flat" alt="pushpraj" /> </p>
 
-<h3>I'm pursuing my B.Tech degree from IIIT Naya Raipur</h3> 
+<h3>I'm pursuing my B.Tech degree from IIIT Naya Raipur</h3>
+
 - 🌱 I’m currently learning **DevOps**
 
 - 📫 How to reach me **paikrapushpraj6@gmail.com**
