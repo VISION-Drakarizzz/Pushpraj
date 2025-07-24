@@ -6,6 +6,7 @@
 
 <h3>I'm pursuing my B.Tech degree from IIIT Naya Raipur</h3> 
 - 🌱 I’m currently learning **DevOps**
+
 - 📫 How to reach me **paikrapushpraj6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
